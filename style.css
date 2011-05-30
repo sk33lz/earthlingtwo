@@ -187,9 +187,11 @@ h2.site-slogan {
 
 #menu a {
 	display: block;
-	width: 120px;
+	width: auto;
 	height: 39px;
 	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
 	background: url(images/img05.jpg) repeat-x left top;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	text-decoration: none;
