@@ -1,0 +1,13 @@
+name = Earthling Two
+description = 2 Column. An easy to use, yet easily customizable nature theme for Drupal. Upload a custom header image on the <a href="/admin/build/themes/settings/earthlingtwo">theme settings</a> page.
+core = 6.x
+engine = phptemplate
+stylesheets[all][] = style.css
+
+regions[right] = Right Sidebar
+regions[content_top] = Content Top
+regions[content] = Content
+regions[content_bottom] = Content Bottom
+regions[footer] = Footer
+regions[column_1] = Footer Column 1
+regions[column_2] = Footer Column 2
